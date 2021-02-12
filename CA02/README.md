@@ -43,8 +43,8 @@ no tests
 none
 
 ## Built With
-
-India Air Quality Data
+data from: 
+https://github.com/ArinB/MSBA-CA01-Spam-Mail-Naibe-Bayes
 
 ## Contributing
 
