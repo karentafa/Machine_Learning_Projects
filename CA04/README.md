@@ -1,4 +1,4 @@
-# CA03 – Ensemble Methods - Finding Optimal Value of a key Hyper-parameter
+# CA04 – Ensemble Methods - Finding Optimal Value of a key Hyper-parameter
 
 ## Getting Started
 
