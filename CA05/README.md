@@ -1,4 +1,4 @@
-# CA04 – Logistic Regression
+# CA05 – Logistic Regression
 
 ## Getting Started
 
