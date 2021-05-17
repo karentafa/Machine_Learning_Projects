@@ -30,8 +30,3 @@ no tests
 
 Used Google Colab
 
-
-
-## Acknowledgments
-
-Arin Brahma for the data and code
